@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/friendlyRobots/static/css/main.0a127bfc.chunk.css",
-    "main.js": "/friendlyRobots/static/js/main.37aab6d8.chunk.js",
-    "main.js.map": "/friendlyRobots/static/js/main.37aab6d8.chunk.js.map",
+    "main.js": "/friendlyRobots/static/js/main.1a0084be.chunk.js",
+    "main.js.map": "/friendlyRobots/static/js/main.1a0084be.chunk.js.map",
     "runtime-main.js": "/friendlyRobots/static/js/runtime-main.4bd23a5c.js",
     "runtime-main.js.map": "/friendlyRobots/static/js/runtime-main.4bd23a5c.js.map",
     "static/css/2.31461e4f.chunk.css": "/friendlyRobots/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.d980e3ee.chunk.js",
     "static/css/main.0a127bfc.chunk.css",
-    "static/js/main.37aab6d8.chunk.js"
+    "static/js/main.1a0084be.chunk.js"
   ]
 }
