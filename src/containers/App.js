@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import { connect } from 'react-redux'
 import { requestRobots, setSearchField } from '../actions'
 import CardList from '../components/CardList'
@@ -20,13 +20,12 @@ const mapDispatchToProps = dispatch => ({
 })
 
 function App(props) {
-  // const [robots, setRobots] = useState([])
   const { searchField, onSearchChange, onRequestRobots, robots, isPending } =
     props
 
   useEffect(() => {
     onRequestRobots()
-  }, [])
+  }, [onRequestRobots])
 
   const filteredRobots = robots.filter(robot =>
     robot.name.toLowerCase().includes(searchField.toLowerCase())
