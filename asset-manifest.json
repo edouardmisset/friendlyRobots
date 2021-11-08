@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/friendlyRobots/static/css/main.0a127bfc.chunk.css",
-    "main.js": "/friendlyRobots/static/js/main.1875fe45.chunk.js",
-    "main.js.map": "/friendlyRobots/static/js/main.1875fe45.chunk.js.map",
-    "runtime-main.js": "/friendlyRobots/static/js/runtime-main.ad231cc0.js",
-    "runtime-main.js.map": "/friendlyRobots/static/js/runtime-main.ad231cc0.js.map",
+    "main.css": "/friendlyRobots/static/css/main.00d36589.chunk.css",
+    "main.js": "/friendlyRobots/static/js/main.f2486eeb.chunk.js",
+    "main.js.map": "/friendlyRobots/static/js/main.f2486eeb.chunk.js.map",
+    "runtime-main.js": "/friendlyRobots/static/js/runtime-main.a1785128.js",
+    "runtime-main.js.map": "/friendlyRobots/static/js/runtime-main.a1785128.js.map",
     "static/css/2.c1f4f5f4.chunk.css": "/friendlyRobots/static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.200a67bf.chunk.js": "/friendlyRobots/static/js/2.200a67bf.chunk.js",
-    "static/js/2.200a67bf.chunk.js.map": "/friendlyRobots/static/js/2.200a67bf.chunk.js.map",
-    "static/js/3.b273b463.chunk.js": "/friendlyRobots/static/js/3.b273b463.chunk.js",
-    "static/js/3.b273b463.chunk.js.map": "/friendlyRobots/static/js/3.b273b463.chunk.js.map",
+    "static/js/2.a1206a75.chunk.js": "/friendlyRobots/static/js/2.a1206a75.chunk.js",
+    "static/js/2.a1206a75.chunk.js.map": "/friendlyRobots/static/js/2.a1206a75.chunk.js.map",
+    "static/js/3.9efd3b7e.chunk.js": "/friendlyRobots/static/js/3.9efd3b7e.chunk.js",
+    "static/js/3.9efd3b7e.chunk.js.map": "/friendlyRobots/static/js/3.9efd3b7e.chunk.js.map",
     "index.html": "/friendlyRobots/index.html",
     "static/css/2.c1f4f5f4.chunk.css.map": "/friendlyRobots/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.0a127bfc.chunk.css.map": "/friendlyRobots/static/css/main.0a127bfc.chunk.css.map",
-    "static/js/2.200a67bf.chunk.js.LICENSE.txt": "/friendlyRobots/static/js/2.200a67bf.chunk.js.LICENSE.txt",
+    "static/css/main.00d36589.chunk.css.map": "/friendlyRobots/static/css/main.00d36589.chunk.css.map",
+    "static/js/2.a1206a75.chunk.js.LICENSE.txt": "/friendlyRobots/static/js/2.a1206a75.chunk.js.LICENSE.txt",
     "static/media/App.css": "/friendlyRobots/static/media/MR ROBOT.ae7e35be.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad231cc0.js",
+    "static/js/runtime-main.a1785128.js",
     "static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.200a67bf.chunk.js",
-    "static/css/main.0a127bfc.chunk.css",
-    "static/js/main.1875fe45.chunk.js"
+    "static/js/2.a1206a75.chunk.js",
+    "static/css/main.00d36589.chunk.css",
+    "static/js/main.f2486eeb.chunk.js"
   ]
 }
